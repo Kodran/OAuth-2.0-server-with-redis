@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;
+    background: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    position: absolute;
+    height: 100%;
+    min-width: 100%;
+    font-size: 13px;
+    color: #404040;
+    direction: ltr;
+    font-size: 14px;
+}
+#main{
+    margin:20px;
+}
+.form{
+    margin-top: 5%;
+    background-color: #2c5f89;
+    color:#f4f4f4;
+    box-shadow:4px 4px 5px #aaaaaa;
+}
+h2{
+    color:#fff;
+    font-family: 'Open Sans', arial;
+    -webkit-font-smoothing: antialiased;    
+    font-size: 24px;
+    font-weight: lighter;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.loginForm{
+    
+}
+input[type=text]{
+    color: #666;
+}
+.row{
+    text-align: center;
+}
